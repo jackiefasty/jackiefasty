@@ -1,5 +1,5 @@
 ### Hi all, and welcome to my GitHub account!👋
-I'm Borja Javierre and I'm a last year student in KTH Royal Institute of Technology (Stockholm, Sweden) in the MEng ICT Innovation - Visual Computing and Communication track. It's very similar to the Interactive Media Technology one (or Mediateknik in Swedish), I learned the most useful programming skills on backend (in Python, C# on Unity and C++) as well as in web and app development (React.js, Vue.js, TypeScript, CSS, React Native).
+I'm Borja Javierre and I'm a last year student of the MEng ICT Innovation - Visual Computing and Communication track in KTH Royal Institute of Technology (Stockholm, Sweden). It's a very similar program to the Interactive Media Technology one (or Mediateknik in Swedish). On it I learned some of the most useful programming skills in backend (Python, C# on Unity and C++) as well as in frontend for web and app development (React.js, Vue.js, TypeScript, CSS and React Native).
 
 CONTACT AND MORE ABOUT ME
 -------
