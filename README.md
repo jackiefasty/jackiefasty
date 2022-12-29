@@ -93,7 +93,7 @@ MAIN PROJECTS
 <a align="left" href="https://github.com/jakifasty/DH2323-CollisionDetectionLevelDetail-Lab3">
     <img src="https://img.shields.io/badge/GrassShader-%23DD0031.svg?&style=for-the-badge&logo=gitlab&logoColor=gray&color=black"/>               
 </a>
-<p>Project in C# using Unity where a game with tanks were used where actions could be done like shooting with different tools to other eleents on the scene</p>
+<p>Project in C# using Unity where a shader was developed to simulate grass in movement thanks to the effect of artificial wind. A game with tanks was also used in this module called Computer Graphics (https://github.com/jakifasty/lab3-CGInter). On it different actions could be done, like shooting with different tools to other elements on the scene.</p>
 
 
 
