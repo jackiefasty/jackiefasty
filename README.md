@@ -47,6 +47,15 @@ Test Developer Intern, Stockholm (Sweden)
 
 <img 
     align="left"
+        width="50px"
+        height="50px"
+        src="[https://media.licdn.com/dms/image/C4D0BAQGXOuBsm2KLDg/company-logo_200_200/0/1541087427137?e=1680134400&v=beta&t=ZrMQtvUMD1ON0OHd2cp02nXU9dmIoc9EwXanr28R0Dw](https://www.telenor.com/binaries/media/gallery/logos/telenor-symbol.png)"
+    />
+January 2023 - Present                     
+Data Scientist Intern - Master Thesis Student, Stockholm (Sweden)
+
+<img 
+    align="left"
         width="60px"
         height="50px"
         src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Logo_Worldline_-_2021.svg/1200px-Logo_Worldline_-_2021.svg.png"
