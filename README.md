@@ -48,8 +48,7 @@ Data Scientist Intern - Master Thesis Student, Stockholm (Sweden)
 <img 
     align="left"
         width="50px"
-        height="50px"
-        src="https://media.licdn.com/dms/image/C4D0BAQGXOuBsm2KLDg/company-logo_200_200/0/1541087427137?e=1680134400&v=beta&t=ZrMQtvUMD1ON0OHd2cp02nXU9dmIoc9EwXanr28R0Dw](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLwicsudodpsH3jjlFF-Zg9snC_8EWjaMtg&usqp=CAU)"
+        height="50px"                   src="https://media.licdn.com/dms/image/C4D0BAQGXOuBsm2KLDg/companylogo_200_200/0/1541087427137e=1680134400&v=beta&t=ZrMQtvUMD1ON0OHd2cp02nXU9dmIoc9EwXanr28R0Dw](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLwicsudodpsH3jjlFF-Zg9snC_8EWjaMtg&usqp=CAU)"
     />
 June 2022 - October 2022                     
 Test Developer Intern, Stockholm (Sweden)
