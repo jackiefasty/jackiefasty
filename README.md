@@ -40,9 +40,18 @@ EXPERIENCE
     align="left"
         width="50px"
         height="50px"
+        src="https://media.licdn.com/dms/image/C4E0BAQHGjB9Howdxvg/company-logo_200_200/0/1630636447860/codemill_logo?e=1721865600&v=beta&t=bZSDsx--2AQJo5ge0bQm8nPhrz9gzkbWuDHcd6n8QkQ"
+    />
+September 2023 - Present                     
+Video ML Software Engineer, Stockholm (Sweden)
+
+<img 
+    align="left"
+        width="50px"
+        height="50px"
         src="https://www.telenor.com/binaries/media/gallery/logos/telenor-symbol.png"
     />
-January 2023 - Present                     
+January 2023 - September 2023                     
 Data Scientist Intern - Master Thesis Student, Stockholm (Sweden)
 
 <img 
