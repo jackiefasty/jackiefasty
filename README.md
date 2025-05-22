@@ -40,10 +40,10 @@ EXPERIENCE
     align="left"
         width="50px"
         height="50px"
-        src="https://media.licdn.com/dms/image/C4E0BAQHGjB9Howdxvg/company-logo_200_200/0/1630636447860/codemill_logo?e=1721865600&v=beta&t=bZSDsx--2AQJo5ge0bQm8nPhrz9gzkbWuDHcd6n8QkQ"
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAMFBMVEVHcEwAre4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are6WH7OBAAAAD3RSTlMA+OxMiHRAYJjNJsPWHbpGpb4TAAAAsklEQVQokX2SWxbDIAhEBY3PpOx/t6lQTRXNfHm8KsOIMU3eFQTA4ryZdQB1wTGgC2kQ5od5UrIvrNNrxYjkZVxDZJ9rRlQ9ww7Sxk3z5PYwmrKHaee1Cl/8fB1VOAbNCgyRKys5frYaKhp+2BC3oqG0wiGookFCELuri9SCP0eW6p7rX3YqBrzM0nFoyEouvzGyQiEGa0OE+axOLjxF8hQ//I2mmYbFqUxsTAiEKfaRNTfA0BpIXvq8AAAAAABJRU5ErkJggg=="
     />
 September 2023 - Present                     
-Video ML Software Engineer, Stockholm (Sweden)
+Video Software Engineer, Stockholm (Sweden)
 
 <img 
     align="left"
