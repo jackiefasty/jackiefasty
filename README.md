@@ -76,7 +76,7 @@ QA and Test Autmation Engineer, Barcelona (Catalonia, Spain)
     align="left"
         width="60px"
         height="50px"
-        src="https://s10.s3c.es/imag/_v0/700x420/0/b/b/cellnex-logo-700.jpg"
+        src="https://totaltele.com/wp-content/uploads/2022/06/cellnex-650x640.jpg"
     />
 April 2019 - September 2019                    
 Broadcasting Engineering Intern, Barcelona (Catalonia, Spain)
