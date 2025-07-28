@@ -40,7 +40,7 @@ EXPERIENCE
     align="left"
         width="50px"
         height="50px"
-        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAMFBMVEVHcEwAre4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are6WH7OBAAAAD3RSTlMA+OxMiHRAYJjNJsPWHbpGpb4TAAAAsklEQVQokX2SWxbDIAhEBY3PpOx/t6lQTRXNfHm8KsOIMU3eFQTA4ryZdQB1wTGgC2kQ5od5UrIvrNNrxYjkZVxDZJ9rRlQ9ww7Sxk3z5PYwmrKHaee1Cl/8fB1VOAbNCgyRKys5frYaKhp+2BC3oqG0wiGookFCELuri9SCP0eW6p7rX3YqBrzM0nFoyEouvzGyQiEGa0OE+axOLjxF8hQ//I2mmYbFqUxsTAiEKfaRNTfA0BpIXvq8AAAAAABJRU5ErkJggg=="
+        src="[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAMFBMVEVHcEwAre4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are4Are6WH7OBAAAAD3RSTlMA+OxMiHRAYJjNJsPWHbpGpb4TAAAAsklEQVQokX2SWxbDIAhEBY3PpOx/t6lQTRXNfHm8KsOIMU3eFQTA4ryZdQB1wTGgC2kQ5od5UrIvrNNrxYjkZVxDZJ9rRlQ9ww7Sxk3z5PYwmrKHaee1Cl/8fB1VOAbNCgyRKys5frYaKhp+2BC3oqG0wiGookFCELuri9SCP0eW6p7rX3YqBrzM0nFoyEouvzGyQiEGa0OE+axOLjxF8hQ//I2mmYbFqUxsTAiEKfaRNTfA0BpIXvq8AAAAAABJRU5ErkJggg==](https://x.com/hcltech/photo)"
     />
 September 2023 - Present                     
 Video Software Engineer, Stockholm (Sweden)
