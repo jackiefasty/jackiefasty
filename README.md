@@ -40,7 +40,7 @@ EXPERIENCE
     align="left"
         width="50px"
         height="50px"
-        src="https://x.com/hcltech/photo"
+        src="https://x.com/hcltech/photo.png"
     />
 September 2023 - Present                     
 Video Software Engineer, Stockholm (Sweden)
