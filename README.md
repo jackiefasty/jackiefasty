@@ -28,7 +28,7 @@ MEng in ICT Innovation - Visual Computing and Communication track, KTH Royal Ins
     align="left"
         width="50px"
         height="50px"
-        src="https://yt3.ggpht.com/ytc/AMLnZu8jVGs6SqhjoWTQ7EElLIq0n5yTLX7AtzXl94DZ=s900-c-k-c0x00ffffff-no-rj"
+        src="https://bgsmath.cat/wp-content/uploads/2015/09/simbol_upf-1.png"
     />
 September 2015 - July 2020                    
 BEng in Audiovisual Systems of Telecommunications, UPF Universitat Pompeu Fabra, Barcelona (Catalonia, Spain)
@@ -49,7 +49,7 @@ Video Software Engineer, Stockholm (Sweden)
     align="left"
         width="50px"
         height="50px"
-        src="https://www.telenor.com/binaries/media/gallery/logos/telenor-symbol.png"
+        src="[https://www.telenor.com/binaries/media/gallery/logos/telenor-symbol.png](https://cdn.sanity.io/images/21y7fjy9/production/a2177f2adf0009c93abaddfe25bd10d1563e45a0-3200x1600.png?&auto=format&q=75)"
     />
 January 2023 - September 2023                     
 Data Scientist Intern - Master Thesis Student, Stockholm (Sweden)
