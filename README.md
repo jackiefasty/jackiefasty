@@ -49,7 +49,7 @@ Video Software Engineer, Stockholm (Sweden)
     align="left"
         width="50px"
         height="50px"
-        src="[https://www.telenor.com/binaries/media/gallery/logos/telenor-symbol.png](https://cdn.sanity.io/images/21y7fjy9/production/a2177f2adf0009c93abaddfe25bd10d1563e45a0-3200x1600.png?&auto=format&q=75)"
+        src="https://www.telenor.com/binaries/media/gallery/logos/telenor-symbol.png"
     />
 January 2023 - September 2023                     
 Data Scientist Intern - Master Thesis Student, Stockholm (Sweden)
