@@ -49,7 +49,7 @@ EXPERIENCE
     align="left"
         width="50px"
         height="50px"
-        src="https://www.google.com/s2/favicons?domain=elvy.se&sz=128"
+        src="https://www.elvyenergy.com/apple-icon.png"
     />
 May 2026 - Present                     
 Senior Software Engineer, Elvy, Stockholm (Sweden)
@@ -58,7 +58,7 @@ Senior Software Engineer, Elvy, Stockholm (Sweden)
     align="left"
         width="50px"
         height="50px"
-        src="https://www.google.com/s2/favicons?domain=hcltech.com&sz=128"
+        src="https://www.hcltech.com/sites/default/files/apple-touch/apple-touch-icon-152x152.png"
     />
 January 2025 - May 2026                     
 Senior Software Engineer, HCLTech, Stockholm (Sweden)
@@ -67,7 +67,7 @@ Senior Software Engineer, HCLTech, Stockholm (Sweden)
     align="left"
         width="50px"
         height="50px"
-        src="https://www.google.com/s2/favicons?domain=hcltech.com&sz=128"
+        src="https://www.hcltech.com/sites/default/files/apple-touch/apple-touch-icon-152x152.png"
     />
 September 2023 - December 2024                     
 Software Engineer, HCLTech, Stockholm (Sweden)
@@ -76,7 +76,7 @@ Software Engineer, HCLTech, Stockholm (Sweden)
     align="left"
         width="50px"
         height="50px"
-        src="https://www.google.com/s2/favicons?domain=codemill.se&sz=128"
+        src="https://cdn.prod.website-files.com/61530c52127422dbc022cc79/662fa2a14bd7855ad0eb6f27_CM_Icon_Blue_webb.png"
     />
 September 2023 - December 2024                     
 Software Engineer, Codemill, Stockholm (Sweden) — business transfer to HCLTech in 2024
@@ -103,7 +103,7 @@ Data Scientist Intern - Master Thesis Student, Telenor, Stockholm (Sweden)
     align="left"
         width="50px"
         height="50px"
-        src="https://www.google.com/s2/favicons?domain=edgeware.tv&sz=128"
+        src="https://agiletv.com/wp-content/uploads/2024/11/agile-tv-icon-e1732018103457-300x300.png"
     />
 June 2022 - October 2022                     
 Test Engineer Intern, Edgeware AB, Stockholm (Sweden)
@@ -112,7 +112,7 @@ Test Engineer Intern, Edgeware AB, Stockholm (Sweden)
     align="left"
         width="50px"
         height="50px"
-        src="https://www.google.com/s2/favicons?domain=worldline.com&sz=128"
+        src="https://www.worldline.com/content/dam/shared/favicon/favicon-worldline.png"
     />
 February 2021 - September 2021                    
 Automation Testing and QA Engineer, Worldline Global, Barcelona (Catalonia, Spain)
@@ -130,7 +130,7 @@ Research Intern, CTTC, Castelldefels, Barcelona (Catalonia, Spain)
     align="left"
         width="50px"
         height="50px"
-        src="https://www.google.com/s2/favicons?domain=cellnex.com&sz=128"
+        src="https://totaltele.com/wp-content/uploads/2022/06/cellnex-650x640.jpg"
     />
 April 2019 - September 2019                    
 Broadcast Engineering Intern, Cellnex Telecom, Barcelona (Catalonia, Spain)
